@@ -1,3 +1,0 @@
-Segue o link para quem quiser adquirir um exemplar de "Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython"
-
--> https://amzn.to/3vz4m5j
